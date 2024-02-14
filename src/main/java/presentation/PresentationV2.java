@@ -1,7 +1,6 @@
 package presentation;
 
 import dao.IDao;
-import dao.ext.DaoImplV2;
 import metier.IMetier;
 
 import java.io.File;

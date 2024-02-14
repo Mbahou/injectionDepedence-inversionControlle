@@ -1,7 +1,6 @@
 package presentation;
 
-import dao.DaoImpl;
-import dao.ext.DaoImplV2;
+import ext.DaoImplV2;
 import metier.MetierImpl;
 
 public class PresentationV1 {
